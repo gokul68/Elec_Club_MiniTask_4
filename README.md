@@ -1,5 +1,5 @@
 # Elec_Club_MiniTask_4
-# 1. Smart Glove Computer Mouse
+# [1. Smart Glove Computer Mouse](https://github.com/gokul68/Elec_Club_Minitask2)
 The pipeline of this project is:
 
 Sensors (accelerometer/pushbutton) => Microcontroller => Bluetooth module => Python code
