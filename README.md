@@ -22,7 +22,6 @@ First, we should ensure that there are no short circuits or loose connections us
 
 If there is no problem with the sensors, we move on to the bluetooth module. Just like before, we ensure that there are no short circuits or loose connections and that the connections are correct. If the connections are fine, we should write a python code to print the values it receives from the bluetooth module. If this doesn't work then there must be some problem in establishing the bluetooth connection or the bluetooth module is faulty.
 
-**Processing module:**
+**Code:**
 
-If the sensors and bluetooth module are fine, then you should check the code. 
-
+If the sensors and bluetooth module are fine, then you should check the code. Make sure that all the data is received and transmitted properly in the Arduino code. In the python code make sure that all the data is received in the right form and processed properly.
