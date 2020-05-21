@@ -25,3 +25,5 @@ If there is no problem with the sensors, we move on to the bluetooth module. Jus
 **Code:**
 
 If the sensors and bluetooth module are fine, then you should check the code. Make sure that all the data is received and transmitted properly in the Arduino code. In the python code make sure that all the data is received in the right form and processed properly.
+
+# [2. Arduino Anti-dog trash can](https://github.com/gokul68/Elec_Club_Minitask2)
